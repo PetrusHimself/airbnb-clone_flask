@@ -93,6 +93,8 @@ The final stage focuses on making the web application dynamic by integrating Jav
 *   AJAX for asynchronous requests
 *   jQuery or Fetch API for easier AJAX implementation
 *   Flask-SocketIO for real-time features (if needed)
+*   TypeScript
+*   Tailwind CSS
 
 Project Goals
 -------------
